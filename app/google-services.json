@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149725213032",
+    "project_id": "smart-interceptor-d670e",
+    "storage_bucket": "smart-interceptor-d670e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149725213032:android:443444a9850996f39526dd",
+        "android_client_info": {
+          "package_name": "com.example.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149725213032-5gpn21nvc1gq054hf3fvf4sr2fpcoanj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3AgZnPrfZ3jv1eH8tvCgmtjQ4bpWShs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149725213032-5gpn21nvc1gq054hf3fvf4sr2fpcoanj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
